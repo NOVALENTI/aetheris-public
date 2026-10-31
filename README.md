@@ -2,7 +2,7 @@
 
 A small **Python / FastAPI** reference project showing how to build a bounded content-extraction API with **authentication, explicit source allowlisting, async HTTP, deterministic parsing, and offline tests**.
 
-**Created by Valentino Herrera.** This repository is a standalone portfolio demonstration, intentionally separated from all private projects and deployment systems. It contains no private credentials, production endpoints, client data, or imported Git history.
+**Created by Valentino Herrera.**
 
 ## What it does
 
